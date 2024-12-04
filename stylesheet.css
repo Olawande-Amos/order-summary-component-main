@@ -1,0 +1,83 @@
+body {
+  background-color: hsl(225, 100%, 94%);
+}
+.firstimage {
+  width: 1600px;
+  height: 450px;
+  margin-top: -100px;
+}
+.container {
+  background-color: white;
+  color: hsl(223, 47%, 23%);
+  border-radius: 15px;
+  height: 500px;
+  width: 350px;
+  margin: auto;
+  margin-bottom: 100px;
+  margin-top: -200px;
+  padding: 20px 10px;
+}
+.imagetop {
+  width: 370px;
+  margin-left: -10px;
+  margin-top: -20px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.heading {
+  text-align: center;
+}
+.middletext {
+  color: hsl(224, 23%, 55%);
+  text-align: center;
+}
+.bottomdiv {
+  background-color: hsl(225, 100%, 98%);
+  color: hsl(223, 47%, 23%);
+  height: 60px;
+  width: 280px;
+  margin-left: 30px;
+}
+.imagebottom {
+  margin-top: 5px;
+  margin-left: 9px;
+  size: 7px;
+}
+.one {
+  display: block;
+  color: hsl(223, 47%, 23%);
+  margin-left: 68px;
+  margin-top: -49px;
+}
+.link {
+  display: block;
+  margin-left: 220px;
+  margin-top: -40px;
+}
+.two {
+  display: block;
+  border-radius: 10px;
+  color: white;
+  background-color: blue;
+  height: 30px;
+  width: 250px;
+  margin-top: 20px;
+  margin-left: 40px;
+  padding-top: 10px;
+  text-align: center;
+}
+.lasttext {
+  text-align: center;
+  color: hsl(223, 47%, 23%);
+}
+.link:hover {
+  opacity: 57%;
+  text-decoration: none;
+}
+.two:hover {
+  opacity: 70%;
+}
+.lasttext:hover {
+  text-decoration: bold;
+  color: black;
+}
